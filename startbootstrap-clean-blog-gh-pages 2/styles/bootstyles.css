@@ -1,0 +1,30 @@
+body{
+background-color: rgb(184, 181, 179);
+font-family: 'Times New Roman', Times, serif;
+font-size: 12;
+}
+
+header{
+font-family: Arial, Helvetica, sans-serif;
+--bs-blue: #0d2b58;
+}
+
+title {
+    display: grid;
+}
+
+:root {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(34, 83, 34);
+    }
+
+div {
+    height: 250px;
+    width: 600px;
+    position: static;
+}
+
+footer {
+    font-size: large;
+    font-style: oblique;
+}
